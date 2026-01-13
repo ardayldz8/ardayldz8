@@ -1,29 +1,31 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Merhaba%2C+Ben+Arda+Y%C4%B1ld%C4%B1z+%F0%9F%91%8B;AI+%2F+ML+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arda+Y%C4%B1ld%C4%B1z;AI+%2F+ML+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ardayldz8&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## 🧠 Hakkımda
+## 🧠 About Me
 
 ```python
 class ArdaYildiz:
     def __init__(self):
         self.name = "Arda Yıldız"
         self.role = "AI/ML Engineer"
-        self.location = "Türkiye 🇹🇷"
-        self.interests = ["LLMs", "Computer Vision", "NLP", "MLOps"]
+        self.location = "Turkey 🇹🇷"
+        self.focus = ["LLMs", "RAG", "NLP", "Computer Vision"]
+        self.languages = ["Turkish", "English"]
         
-    def say_hi(self):
-        print("Yapay zeka ile gerçek dünya problemlerini çözüyorum!")
+    def current_work(self):
+        return "Building AI solutions for real-world problems"
 
 me = ArdaYildiz()
-me.say_hi()
 ```
 
-## 🔬 Uzmanlık Alanlarım
+> 🇹🇷 *Yapay zeka ve makine öğrenimi alanında çalışan bir mühendisim.*
+
+## 🔬 Areas of Expertise
 
 <table>
 <tr>
@@ -32,16 +34,16 @@ me.say_hi()
 ### 🤖 AI / Machine Learning
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Computer Vision & Object Detection
 - Natural Language Processing
+- Computer Vision & Object Detection
 - MLOps & Model Deployment
 
 </td>
 <td width="50%">
 
-### 💻 Development
+### 💻 Software Development
 - Full-Stack Web Development
-- Mobile App Development
+- Mobile App Development (Flutter, React Native)
 - IoT & Embedded Systems
 - Backend API Development
 - Cloud & DevOps
@@ -50,15 +52,15 @@ me.say_hi()
 </tr>
 </table>
 
-## 🛠️ Teknoloji Stack'im
+## 🛠️ Tech Stack
 
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Development & Tools
@@ -75,7 +77,7 @@ me.say_hi()
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardayldz8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="170"/>
@@ -86,67 +88,71 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardayldz8&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 </p>
 
-## 🏆 Öne Çıkan Projeler
+## 🏆 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏭 MARGAZ Kontrol Sistemi
-**IoT Gaz Tankı İzleme Sistemi**
+### 🇹🇷 TurkishDocQA
+**RAG-based Document Q&A System**
 
-Real-time WebSocket ile gerçek zamanlı tank seviye izleme ve alarm sistemi
+Ask questions to your Turkish PDF documents, get AI-powered answers using LangChain & Hugging Face.
+
+`Python` `LangChain` `RAG` `NLP`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ardayldz8/TurkishDocQA)
+
+</td>
+<td width="50%">
+
+### 🏭 MARGAZ Control System
+**IoT Tank Level Monitoring**
+
+Real-time gas tank monitoring with WebSocket-based alarm system.
 
 `TypeScript` `Node.js` `WebSocket` `IoT`
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ardayldz8/margazlpg.github.io-)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏗️ Geometri Yapı
-**Şirket Web Sitesi**
+**Corporate Website**
 
-Modern ve responsive kurumsal web sitesi
+Modern, responsive company website.
 
 `JavaScript` `HTML` `CSS`
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ardayldz8/GeometriYapi)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### 🐾 Sahipsiz Urfa
-**Sosyal Sorumluluk Projesi**
+### 🐾 SahipsizUrfa
+**Social Responsibility Project**
 
-Sokak hayvanları için farkındalık projesi
+Awareness project for stray animals.
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ardayldz8/SahipsizUrfa)
-
-</td>
-<td width="50%">
-
-### 🤖 [AI Projesi - Yakında]
-**LLM & RAG Projesi**
-
-Yapay zeka destekli yeni proje geliyor...
-
-`Python` `LangChain` `Hugging Face`
 
 </td>
 </tr>
 </table>
 
-## 🌱 Şu An Üzerinde Çalıştıklarım
+## 🌱 Currently Working On
 
-- 🔭 LLM ve RAG tabanlı projeler geliştiriyorum
-- 🌱 MLOps ve model deployment öğreniyorum
-- 👯 Açık kaynak AI projelerine katkıda bulunmak istiyorum
-- 💬 AI/ML hakkında sohbet etmekten mutluluk duyarım
+- 🔭 Building LLM and RAG-based applications
+- 🌱 Learning MLOps and model deployment at scale
+- 👯 Looking to contribute to open-source AI projects
+- 💬 Happy to chat about AI/ML topics
 
-## 📫 Bana Ulaşın
+> 🇹🇷 *LLM ve RAG tabanlı projeler geliştiriyorum. Açık kaynak AI projelerine katkıda bulunmak istiyorum.*
+
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/s%C3%BCleyman-arda-y%C4%B1ld%C4%B1z-9b9264203/">
@@ -164,5 +170,5 @@ Yapay zeka destekli yeni proje geliyor...
 </p>
 
 <p align="center">
-  ⭐ Projelerimi beğendiysen yıldız bırakmayı unutma!
+  ⭐ If you like my projects, consider giving them a star!
 </p>
